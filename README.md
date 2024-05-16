@@ -33,5 +33,7 @@
 # **Badges**
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
-[![An image of @asymtode712's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asymtode712)](https://holopin.io/@asymtode712)
+  
+[![@asymtode712's Holopin board](https://holopin.me/asymtode712)](https://holopin.io/@asymtode712)
+
 </details>
