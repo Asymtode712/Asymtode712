@@ -5,7 +5,8 @@ Hey there, Siddheya this side!
 <img src="./assets/giphy.gif" width="35px" alt="GIF">
 </h1>
 
-</div>
+</div><br>
+
 
 # 💫 About Me
 
