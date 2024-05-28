@@ -35,8 +35,8 @@ Hey there, Siddheya this side!
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asymtode712&theme=midnight_purple">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=midnight_purple&utcOffset=8">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=midnight_purple">
-<img src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=midnight_purple"><br/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=midnight-purple&hide_border=false">
 
 
