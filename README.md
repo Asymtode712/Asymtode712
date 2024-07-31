@@ -56,7 +56,7 @@ Hey there, Siddheya this side!
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" /></a>
 </div>
-
+<br>
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
   
