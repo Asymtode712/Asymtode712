@@ -1,13 +1,14 @@
 <div id="header" align="center">
 
-<h1>
-Hey there, Siddheya this side!
-<img src="./assets/giphy.gif" width="35px" alt="GIF">
-</h1>
+<h1>Hey there, Siddheya this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
-</div><br>
+</div>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Profile Image" width="350" style="margin-bottom:20px;"/>
+<br>
+
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="430" />
+</div>
 
 ### 💫 About Me
 
@@ -54,12 +55,11 @@ Hey there, Siddheya this side!
 <img src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=radical&hide_border=false">
 
+</div><br>
 
-</div>
+# 🎖 Badges
 
-# **Badges**
-
-## GSSoC'24 Badges
+### GSSoC'24 Badges
 
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
@@ -73,7 +73,7 @@ Hey there, Siddheya this side!
 </div>
 <br>
 <details>
-  <summary><b>:zap: HoloPin Badges </b></summary>
+  <summary><b> HoloPin Badges </b></summary>
   
 [![@asymtode712's Holopin board](https://holopin.me/asymtode712)](https://holopin.io/@asymtode712)
 
@@ -87,7 +87,9 @@ Hey there, Siddheya this side!
 
 <p align="center">
   <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=Asymtode712&color=red" alt="Total Github views" />
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Asymtode712&color=red" alt="Total Github views" />
