@@ -7,8 +7,9 @@ Hey there, Siddheya this side!
 
 </div><br>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Profile Image" width="450" style="margin-bottom:20px;"/>
 
-# 💫 About Me
+### 💫 About Me
 
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development
@@ -62,4 +63,17 @@ Hey there, Siddheya this side!
   
 [![@asymtode712's Holopin board](https://holopin.me/asymtode712)](https://holopin.io/@asymtode712)
 
-</details>
+</details><br/>
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"/>
+  </a>
+</p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=Asymtode712&color=red" alt="Total Github views" />
