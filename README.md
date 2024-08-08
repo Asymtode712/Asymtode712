@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
+
 <div id="header" align="center">
 
 <h1>Hey there, Siddheya this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
@@ -95,3 +97,5 @@
 
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Asymtode712&color=red" alt="Total Github views" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=120&section=footer"/>
