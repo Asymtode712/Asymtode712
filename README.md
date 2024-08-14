@@ -57,7 +57,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=radical&hide_border=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=radical">
 
 </div><br>
 
