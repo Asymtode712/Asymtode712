@@ -17,7 +17,7 @@
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with open source enthusiasts and developers
+- 👯 I’m looking to collaborate with open source enthusiasts
 - 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA
 
 <br>
