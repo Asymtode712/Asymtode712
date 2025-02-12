@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
 
 <br>
 
@@ -57,7 +57,7 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asymtode712&theme=radical">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Asymtode712&theme=radical">
 
 </div><br>
 
