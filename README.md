@@ -14,8 +14,8 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently working on Web Development
+- 💼 I'm a Software Engineer
+- 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate with open source enthusiasts
 - 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
