@@ -69,8 +69,8 @@
 
 # 🎖 Badges
 
-### GSSoC'24 Badges
-
+<details>
+<summary><b> GSSoC'24 Badges </b></summary>
 <div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="./assets/postman.png" width="85px" height="85px" />
   <img src="./assets/1.png" width="85px" height="85px" />
@@ -82,6 +82,7 @@
   <img src="./assets/7.png" width="85px" height="85px" />
 </div>
 <br>
+</details>
 <details>
   <summary><b> HoloPin Badges </b></summary>
   
