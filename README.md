@@ -67,7 +67,7 @@
   
 | S.No. | Repository | Type | Link |
 |-------------|-------------|--------------|------------|
-| 1 | [awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles/) | PR (Merged) | [#97](https://github.com/recodehive/awesome-github-profiles/pull/285) |
+| 1 | [awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles/) | PR (Merged) | [#285](https://github.com/recodehive/awesome-github-profiles/pull/285) |
 | 2 | [awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles/) | PR (Merged) | [#261](https://github.com/recodehive/awesome-github-profiles/pull/261) |
 | 3 | [awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles/) | PR (Merged) | [#97](https://github.com/recodehive/awesome-github-profiles/pull/97) |
 | 4 | [HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub/) | PR (Merged) | [#1160](https://github.com/mdazfar2/HelpOps-Hub/pull/1160) |
