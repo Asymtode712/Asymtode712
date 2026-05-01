@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
+<a href="https://gitroll.io/profile/u6H7efi2rlufR8kvloyLxTn5H7cV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u6H7efi2rlufR8kvloyLxTn5H7cV2?theme=retro" alt="GitRoll Profile Badge"/></a>
+
 <img src="https://i.pinimg.com/originals/ac/63/f8/ac63f8fec3b7a789417e9443bf895e94.gif" >
 
 <br />
