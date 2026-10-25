@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Shipping+code+to+Kestra%2C+DocsGPT%2C+Tabularis+%26+tscircuit;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Java;%F0%9F%8F%86+Rank+%234+in+GirlScript+Summer+of+Code+2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=700&lines=Contributing+to+Kestra+%E2%80%A2+DocsGPT+%E2%80%A2+Tabularis;Building+electronics+in+code+with+tscircuit;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Java;%F0%9F%8F%86+Rank+%234+in+GirlScript+Summer+of+Code+2024" alt="Typing SVG" /></a>
 
-<a href="https://siddheya-kulkarni-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-141321?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://siddheya-kulkarni.dev"><img src="https://img.shields.io/badge/siddheya--kulkarni.dev-141321?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/siddheya-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/SidKulkarni712"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/sid_kulkarni_712"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -20,7 +20,7 @@
 const siddheya = {
   role: "Full Stack Developer",
   location: "India 🇮🇳",
-  currentlyContributingTo: ["Kestra", "Tabularis", "DocsGPT", "tscircuit"],
+  currentlyContributingTo: ["Kestra", "Tabularis", "DocsGPT", "Reticle"],
   interests: ["Developer tools", "Workflow orchestration", "AI agents", "Open source"],
   achievements: ["Rank #4 — GirlScript Summer of Code 2024"],
 };
