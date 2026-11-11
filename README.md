@@ -97,6 +97,16 @@ const siddheya = {
     <td align="center">
       <a href="https://github.com/reticlehq/reticle/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Areticlehq%2Freticle%20author%3AAsymtode712%20is%3Apr%20is%3Amerged&label=merged%20PRs&style=flat-square&color=8957e5"/></a>
     </td>
+  <tr>
+    <td>
+      <a href="https://github.com/repowise-dev/repowise"><img src="https://github.com/repowise-dev.png?size=80" width="28" align="center"/>&nbsp;<b>RepoWise</b></a><br/>
+      <img src="https://img.shields.io/github/stars/repowise-dev/repowise?style=flat-square&logo=github&label=%E2%98%85&color=fe428e"/>
+    </td>
+    <td>Codebase intelligence for AI and humans</td>
+    <td align="center">
+      <a href="https://github.com/repowise-dev/repowise/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Arepowise-dev%2Frepowise%20author%3AAsymtode712%20is%3Apr%20is%3Amerged&label=merged%20PRs&style=flat-square&color=8957e5"/></a>
+    </td>
+  </tr>
   </tr>
 </table>
 
@@ -130,6 +140,8 @@ const siddheya = {
 | **tscircuit** | [feat: STEP file export in download options](https://github.com/tscircuit/runframe/pull/1413) |
 | **A2A Java SDK** | [feat: message creation methods with `contextId` and `taskId` support](https://github.com/a2aproject/a2a-java/pull/322) |
 | **Reticle** | [feat(browser): let a project name its test-id attribute](https://github.com/reticlehq/reticle/pull/1395) |
+| **RepoWise** | [feat(mcp): keep a local tool latency log and show p50/p90 in status](https://github.com/repowise-dev/repowise/pull/5022) |
+| **RepoWise** | [fix(mcp): add `NO_HITS_RECOVERY_HINT` to empty `search_codebase` concept replies](https://github.com/repowise-dev/repowise/pull/5007) |
 | **ToolJet** | [docs: Timeline component documentation](https://github.com/ToolJet/ToolJet/pull/10860) |
 
 <sub>👉 <a href="https://github.com/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged+-user%3AAsymtode712">See all merged PRs</a></sub>
