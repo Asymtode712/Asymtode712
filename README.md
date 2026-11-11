@@ -97,6 +97,7 @@ const siddheya = {
     <td align="center">
       <a href="https://github.com/reticlehq/reticle/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Areticlehq%2Freticle%20author%3AAsymtode712%20is%3Apr%20is%3Amerged&label=merged%20PRs&style=flat-square&color=8957e5"/></a>
     </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/repowise-dev/repowise"><img src="https://github.com/repowise-dev.png?size=80" width="28" align="center"/>&nbsp;<b>RepoWise</b></a><br/>
@@ -106,7 +107,6 @@ const siddheya = {
     <td align="center">
       <a href="https://github.com/repowise-dev/repowise/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Arepowise-dev%2Frepowise%20author%3AAsymtode712%20is%3Apr%20is%3Amerged&label=merged%20PRs&style=flat-square&color=8957e5"/></a>
     </td>
-  </tr>
   </tr>
 </table>
 
