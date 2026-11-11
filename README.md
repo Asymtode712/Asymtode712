@@ -80,16 +80,6 @@ const siddheya = {
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/a2aproject/a2a-java"><img src="https://github.com/a2aproject.png?size=80" width="28" align="center"/>&nbsp;<b>A2A Java SDK</b></a><br/>
-      <img src="https://img.shields.io/github/stars/a2aproject/a2a-java?style=flat-square&logo=github&label=%E2%98%85&color=fe428e"/>
-    </td>
-    <td>Official Java SDK for the Agent2Agent protocol</td>
-    <td align="center">
-      <a href="https://github.com/a2aproject/a2a-java/pulls?q=is%3Apr+author%3AAsymtode712+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aa2aproject%2Fa2a-java%20author%3AAsymtode712%20is%3Apr%20is%3Amerged&label=merged%20PRs&style=flat-square&color=8957e5"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/reticlehq/reticle"><img src="https://github.com/reticlehq.png?size=80" width="28" align="center"/>&nbsp;<b>Reticle</b></a><br/>
       <img src="https://img.shields.io/github/stars/reticlehq/reticle?style=flat-square&logo=github&label=%E2%98%85&color=fe428e"/>
     </td>
